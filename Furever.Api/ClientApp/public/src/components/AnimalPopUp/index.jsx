@@ -9,7 +9,7 @@ const AnimalPopUp = (props) => {
     <div className='AnimalPopUp'>
       <div className='AnimalPopUpInner'>
         <div className='PopUpHeader'>
-          <h3>A little more about me</h3>
+          <h3>A little more about me!</h3>
           <button className='close-btn' onClick={() => props.setTrigger(false)}>X button</button>
         </div>
 
