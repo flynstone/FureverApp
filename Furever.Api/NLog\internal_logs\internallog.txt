@@ -824,3 +824,26 @@
 2022-02-16 11:47:45.1797 Trace Opening /Users/neavy/Desktop/Coding/LHL/Bootcamp/FureverApp/Furever.Api/bin/Debug/net5.0/./NLog\logs2022-02-16_logfile.txt with allowFileSharedWriting=False
 2022-02-16 11:50:38.4166 Trace Opening /Users/neavy/Desktop/Coding/LHL/Bootcamp/FureverApp/Furever.Api/bin/Debug/net5.0/./NLog\logs2022-02-16_logfile.txt with allowFileSharedWriting=False
 2022-02-16 11:50:38.4670 Trace Opening /Users/neavy/Desktop/Coding/LHL/Bootcamp/FureverApp/Furever.Api/bin/Debug/net5.0/./NLog\logs2022-02-16_logfile.txt with allowFileSharedWriting=False
+2022-02-16 12:10:35.6499 Info AppDomain Shutting down. Logger closing...
+2022-02-16 12:10:35.6545 Debug Stopping file watching for path '/Users/neavy/Desktop/Coding/LHL/Bootcamp/FureverApp/Furever.Api/bin/Debug/net5.0' filter 'NLog.config'
+2022-02-16 12:10:35.6589 Debug Targets not configured for logger: Furever.LoggerService.LoggerManager
+2022-02-16 12:10:35.6601 Debug Closing logging configuration...
+2022-02-16 12:10:35.6614 Trace Closing File Target[logfile]
+2022-02-16 12:10:35.6614 Debug Closing target 'File Target[logfile]'.
+2022-02-16 12:10:35.6654 Trace FileTarget(Name=logfile): FinalizeFile '/Users/neavy/Desktop/Coding/LHL/Bootcamp/FureverApp/Furever.Api/bin/Debug/net5.0/./NLog\logs2022-02-16_logfile.txt, isArchiving: False'
+2022-02-16 12:10:35.6683 Debug FileAppender Closing Invalidate - /Users/neavy/Desktop/Coding/LHL/Bootcamp/FureverApp/Furever.Api/bin/Debug/net5.0/./NLog\logs2022-02-16_logfile.txt
+2022-02-16 12:10:35.6706 Debug Closed target 'File Target[logfile]'.
+2022-02-16 12:10:35.6706 Trace Closing './NLog\logs${shortdate}_logfile.txt'
+2022-02-16 12:10:35.6715 Trace Closing Layout Renderer: ${literal}
+2022-02-16 12:10:35.6715 Trace Closing Layout Renderer: ${shortdate}
+2022-02-16 12:10:35.6715 Trace Closing Layout Renderer: ${literal}
+2022-02-16 12:10:35.6715 Trace Closing '${longdate} ${level:uppercase=true} ${message}'
+2022-02-16 12:10:35.6715 Trace Closing Layout Renderer: ${longdate}
+2022-02-16 12:10:35.6715 Trace Closing Layout Renderer: ${literal}
+2022-02-16 12:10:35.6724 Trace Closing Layout Renderer: ${uppercase}
+2022-02-16 12:10:35.6724 Trace Closing SimpleLayout=Layout Renderer: ${level}
+2022-02-16 12:10:35.6724 Trace Closing Layout Renderer: ${level}
+2022-02-16 12:10:35.6724 Trace Closing Layout Renderer: ${literal}
+2022-02-16 12:10:35.6724 Trace Closing Layout Renderer: ${message}
+2022-02-16 12:10:35.6724 Debug Finished closing logging configuration.
+2022-02-16 12:10:35.6737 Info Logger has been shut down.
