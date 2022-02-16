@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Furever.Api", "Furever.Api\Furever.Api.csproj", "{44CEB09C-D6D1-4169-8BA9-8C98D4AD8F6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Furever.EmailService", "Furever.EmailService\Furever.EmailService.csproj", "{D53828B0-3284-4FBD-8BB9-B694C15E5086}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Furever.Entities", "Furever.Entities\Furever.Entities.csproj", "{0FE87B98-28C5-430A-A08E-CD569E89283B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Furever.LoggerService", "Furever.LoggerService\Furever.LoggerService.csproj", "{28D930CF-6658-4BF9-AAD0-7015AA3F1599}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Furever.Repositories", "Furever.Repositories\Furever.Repositories.csproj", "{8905F338-61FD-4FB7-986F-97551C56D6DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furever.PhotoService", "Furever.PhotoService\Furever.PhotoService.csproj", "{88F96C34-DD53-4221-8A56-DF2A6D1414D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44CEB09C-D6D1-4169-8BA9-8C98D4AD8F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CEB09C-D6D1-4169-8BA9-8C98D4AD8F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CEB09C-D6D1-4169-8BA9-8C98D4AD8F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CEB09C-D6D1-4169-8BA9-8C98D4AD8F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53828B0-3284-4FBD-8BB9-B694C15E5086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53828B0-3284-4FBD-8BB9-B694C15E5086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53828B0-3284-4FBD-8BB9-B694C15E5086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53828B0-3284-4FBD-8BB9-B694C15E5086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE87B98-28C5-430A-A08E-CD569E89283B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE87B98-28C5-430A-A08E-CD569E89283B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE87B98-28C5-430A-A08E-CD569E89283B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE87B98-28C5-430A-A08E-CD569E89283B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D930CF-6658-4BF9-AAD0-7015AA3F1599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D930CF-6658-4BF9-AAD0-7015AA3F1599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D930CF-6658-4BF9-AAD0-7015AA3F1599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D930CF-6658-4BF9-AAD0-7015AA3F1599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8905F338-61FD-4FB7-986F-97551C56D6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8905F338-61FD-4FB7-986F-97551C56D6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8905F338-61FD-4FB7-986F-97551C56D6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8905F338-61FD-4FB7-986F-97551C56D6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F96C34-DD53-4221-8A56-DF2A6D1414D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F96C34-DD53-4221-8A56-DF2A6D1414D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F96C34-DD53-4221-8A56-DF2A6D1414D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F96C34-DD53-4221-8A56-DF2A6D1414D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF9683D-718B-48BA-8528-B8FB25525CBA}
+	EndGlobalSection
+EndGlobal

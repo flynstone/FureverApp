@@ -1,0 +1,23 @@
+.AnimalTile {
+  border: 3px solid;
+  height: 20rem;
+  width: 20rem;
+  margin-bottom: 4.5rem;
+}
+
+.AnimalImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+  width: 100%;
+  border-bottom: 3px solid;
+  background-color: rgb(171, 168, 168);
+}
+
+.AnimalInfo {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}

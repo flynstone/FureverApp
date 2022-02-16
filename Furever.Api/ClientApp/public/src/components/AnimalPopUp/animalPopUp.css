@@ -1,0 +1,72 @@
+/*Shade home background css goes here as well as the css for the selectec tile ---> check out google but basically one big div for whole page with opacity at like 50 ish percent and then smaller div for actual info */
+
+.AnimalPopUp {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.AnimalPopUpInner {
+  position: relative;
+  border: 3px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 55%;
+  margin-top: 5rem;
+  height: 450px;
+  background-color: white;
+}
+
+.PopUpHeader {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 0.75rem;
+}
+
+.close-btn {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
+
+.AnimalPopImage {
+  border-top: 3px solid;
+  border-bottom:3px solid;
+  width:80%;
+  height:200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.RefugeInfo {
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.75rem;
+  width:100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.AnimalDesc {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  text-align: center;
+}
+
+.Buttons {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 0.65rem;
+}

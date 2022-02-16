@@ -1,0 +1,10 @@
+.AnimalTiles {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.Slogan {
+  padding-top: 1.5rem;
+  padding-bottom: 2rem;
+}

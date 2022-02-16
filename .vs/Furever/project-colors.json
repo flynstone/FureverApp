@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44ceb09c-d6d1-4169-8ba9-8c98d4ad8f6d": {
+      "ProjectGuid": "44ceb09c-d6d1-4169-8ba9-8c98d4ad8f6d",
+      "DisplayName": "Furever.Api",
+      "ColorIndex": 0
+    },
+    "49c85724-343b-46c6-859c-e16c0c12e376": {
+      "ProjectGuid": "49c85724-343b-46c6-859c-e16c0c12e376",
+      "DisplayName": "Furever.Client",
+      "ColorIndex": 1
+    },
+    "41056047-3c95-46ad-a3a0-6f6959062b49": {
+      "ProjectGuid": "41056047-3c95-46ad-a3a0-6f6959062b49",
+      "DisplayName": "Furever.Identity",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
